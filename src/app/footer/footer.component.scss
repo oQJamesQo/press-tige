@@ -1,11 +1,5 @@
+@import "~bootstrap/scss/bootstrap";
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  flex: none;
-  height: 5rem;
-  line-height: 5rem;
-}
-.footer-text {
-  margin-right: 2rem;
+  background-color: $dark;
+  padding: 0.5rem 2.0rem;
 }
