@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap";
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5rem;
+}
+
+legend {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 1rem !important;
+}
+
+.navbar {
+  padding: 0.25rem 1.0rem !important;
+}
